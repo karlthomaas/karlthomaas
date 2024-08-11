@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there 👋
+I'm an aspiring full-stack developer from Estonia 🇪🇪
 
-<!--
-**karlthomaas/karlthomaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Favorite stack
 
-Here are some ideas to get you started:
+- Next.js
+- Typescript
+- FastAPI
+- TailwindCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Background
+
+#### Student of Kood/Jõhvi - Software developer  | 2023-2025
+
+#### Full-stack developer for startup (2023-Present)
+
