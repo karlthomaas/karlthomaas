@@ -12,5 +12,5 @@ I'm an aspiring full-stack developer from Estonia 🇪🇪
 
 #### Student of Kood/Jõhvi - Software developer  | 2023-2025
 
-#### Full-stack developer for Newcode (2023-Present)
+#### Software engineer at Newcode.ai (2023-Present)
 
